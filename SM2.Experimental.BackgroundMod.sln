@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{260BC035-198A-4826-AB7A-94A0BF3FEEDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreCommands", "CoreCommands\CoreCommands.csproj", "{4353B4B1-4D36-4C97-B823-A4EFC86C6685}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructureBlockImporter", "Mods\StructureBlockImporter\StructureBlockImporter.csproj", "{A7737197-C081-4C4D-B017-3E6008AE169F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftCortana", "Mods\MinecraftCortana\MinecraftCortana.csproj", "{BB0B81D6-6791-4451-AD5B-D92AE3CF63CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260BC035-198A-4826-AB7A-94A0BF3FEEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260BC035-198A-4826-AB7A-94A0BF3FEEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260BC035-198A-4826-AB7A-94A0BF3FEEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260BC035-198A-4826-AB7A-94A0BF3FEEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4353B4B1-4D36-4C97-B823-A4EFC86C6685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4353B4B1-4D36-4C97-B823-A4EFC86C6685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4353B4B1-4D36-4C97-B823-A4EFC86C6685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4353B4B1-4D36-4C97-B823-A4EFC86C6685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7737197-C081-4C4D-B017-3E6008AE169F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7737197-C081-4C4D-B017-3E6008AE169F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7737197-C081-4C4D-B017-3E6008AE169F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7737197-C081-4C4D-B017-3E6008AE169F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0B81D6-6791-4451-AD5B-D92AE3CF63CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0B81D6-6791-4451-AD5B-D92AE3CF63CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0B81D6-6791-4451-AD5B-D92AE3CF63CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0B81D6-6791-4451-AD5B-D92AE3CF63CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4865932-5A7C-460C-8C28-5CE96734A697}
+	EndGlobalSection
+EndGlobal
