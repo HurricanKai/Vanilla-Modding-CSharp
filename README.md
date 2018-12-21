@@ -2,11 +2,12 @@
 Modding Minecraft Vanilla using Commands and C#
 
 # Setup
-1. Download the Program & any Mods you want from [Releases](./Releases)
+1. Download the Program, Setup Preset & any Mods you want from [Releases](./Releases)
 2. Start the Program
 3. Go into any World
 4. Enter the message `.setworld <World-Folder-Name>`
-5. Have fun with your Mods :)
+5. Go to some Location and Put down the Structure File downloaded before.
+6. Have fun with your Mods :)
 
 # Using a Mod:
 1. Install the Mod into `<Root>/Modules/<TheMod>.dll`
